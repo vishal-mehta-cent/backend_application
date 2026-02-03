@@ -1,0 +1,1 @@
+DB_NAME = "paper_trading.db"
